@@ -1,0 +1,96 @@
+﻿.lx_head{
+	display: flex;
+	width: 100%;
+	padding: 20px 0;
+}
+.lx_head p{
+	line-height: 26px;
+	margin-left: 10px;
+}
+.lx_head p:first-child{
+	margin-left: 0;
+}
+.lx_head .lxwm{
+	font-size: 20px;
+	color: #DF8800;
+	
+}
+.lx_head .sco{
+	font-size: 16px;
+	color: #666;	
+}
+.lx_head .red{
+	width: 6px;
+	height: 10px;
+	background: #DF8800;
+	margin-top:8px;
+}
+.lx_head .gray{
+	width: 762px;
+	height: 10px;
+	margin-top:8px;
+	background: #F3F3F3;
+}
+
+.lx_content{
+	width: 500px;
+	margin: 0 auto;
+}
+.lx_content .dz{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.lx_content .dz span{
+	display: block;
+	font-size: 14px;
+	color: rgb(105, 105, 105);
+	line-height: 2rem;
+}
+.lx_content .message{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.top_box{
+	display: flex;
+    flex-wrap:wrap;
+}
+.message .title{
+	width: 10%;
+	font-size: 16px;
+    color: #000;
+    line-height: 40px;    
+}
+.message .xing{
+	width: 2%;
+	font-size: 16px;
+    color: red;
+    line-height: 40px;    
+}
+input{
+	width: 78%;
+	height: 40px;
+}
+textarea{
+	width: 78%;
+	resize: none;
+	height: 100px;
+}
+button{
+	display: block;
+	width: 134px;
+	height: 38px;
+	background: #DF8800;
+	text-align: center;
+	line-height: 30px;
+	color: #fff;
+	font-size: 16px;
+	outline: none;
+	border: none;
+	margin: 0 auto;
+    margin-top: 10px;
+}
+.check {
+        margin-left:12%;
+        margin-bottom: 10px; 
+        font-size: 14px;
+    }

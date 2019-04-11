@@ -1,0 +1,23 @@
+﻿.item_inst{
+	padding-top:50px;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+.inst_content{
+	width: 50%;
+}
+.inst_content p{
+	color: #555;
+    line-height: 30px;
+    font-size: 16px;
+}
+h4{
+	line-height: 50px;
+}
+.item_inst img{
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+    object-fit: cover;
+}

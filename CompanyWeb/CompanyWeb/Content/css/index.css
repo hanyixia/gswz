@@ -1,0 +1,209 @@
+/* banner */
+.banner{
+	width: 100%;
+	cursor: pointer;
+    position: relative;
+}
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+.swiper-container img{
+    width: 960px;
+    height: 300px;
+    object-fit: cover;
+}
+/* 业务范围 */
+.yw_box{
+	width: 100%;
+}
+.yw_head{
+	display: flex;
+	width: 100%;
+	height: 66px;
+}
+.yw_head p{
+	line-height: 66px;
+	margin-left: 10px;
+}
+.yw_head p:first-child{
+	margin-left: 0;
+}
+.yw_head .ywfw{
+	font-size: 16px;
+	color: #000;
+	
+}
+.yw_head .sco{
+	font-size: 14px;
+	color: #666;	
+}
+.yw_head .red{
+	width: 6px;
+	height: 10px;
+	background: #f13a3a;
+	margin-top:28px;
+}
+.yw_head .gray{
+	width: 729px;
+	height: 10px;
+	margin-top:28px;
+	background: #F3F3F3;
+}
+.ywpic{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.ywpic li{
+	width: 226px;
+	height: 192px;
+	position: relative;
+}
+.ywpic li .mark{
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.7);
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-size: 12px;
+	line-height: 192px;
+	text-align: center;
+	color: #fff;
+	transition: opacity .8s;
+	opacity: 0;
+}
+.ywpic li:hover .mark{
+	opacity: 1;
+	transition: opacity .8s;
+}
+.rq{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+/* 公司简介 */
+.gs_box{
+	width: 48%;
+}
+.gs_head{
+	display: flex;
+	width: 100%;
+	height: 66px;
+}
+.gs_head p{
+	line-height: 66px;
+	margin-left: 10px;
+}
+.gs_head p:first-child{
+	margin-left: 0;
+}
+.gs_head .gsjj{
+	font-size: 16px;
+	color: #000;
+	
+}
+.gs_head .com{
+	font-size: 14px;
+	color: #666;	
+}
+.gs_head .red{
+	width: 6px;
+	height: 10px;
+	background: #f13a3a;
+	margin-top:28px;
+}
+.gs_head .gray{
+	width: 236px;
+	height: 10px;
+	margin-top:28px;
+	background: #F3F3F3;
+}
+.gs_body{
+	display: flex;
+	justify-content: space-between;
+}
+.gs_img{
+	width: 180px;
+	height: 150px;
+}
+.gs_img img{
+	width: 100%;
+	height: 100%;
+}
+.gs_body a{
+	width: 55%;
+    height:150px;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+	font-size: 14px;
+	color: #666;
+	line-height: 2rem;
+}
+/* 新闻动态 */
+.xw_box{
+	width: 48%;
+}
+.xw_head{
+	display: flex;
+	width: 100%;
+	height: 66px;
+}
+.xw_head p{
+	line-height: 66px;
+	margin-left: 10px;
+}
+.xw_head p:first-child{
+	margin-left: 0;
+}
+.xw_head .xwdt{
+	font-size: 16px;
+	color: #000;
+	
+}
+.xw_head .new{
+	font-size: 14px;
+	color: #666;	
+}
+.xw_head .red{
+	width: 6px;
+	height: 10px;
+	background: #f13a3a;
+	margin-top:28px;
+}
+.xw_head .gray{
+	width: 324px;
+	height: 10px;
+	margin-top:28px;
+	background: #F3F3F3;
+}
+.xwul li{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 30px;
+}
+.xwul li img{
+	width: 100px;
+	height: 60px;
+}
+.xwul li .xw_contemt{
+	width: 74%;
+}
+.xwul li .xw_contemt a{
+	font-size: 14px;
+	color: #000;
+}
+.xwul li .xw_contemt a:hover{
+	color: #DF8800;
+}
+.xwul li .xw_contemt p{
+	font-size: 12px;
+	color: #888888;
+	line-height: 18px;
+}

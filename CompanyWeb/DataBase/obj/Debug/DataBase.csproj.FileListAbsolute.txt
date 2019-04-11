@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\公司网站\CompanyWeb\DataBase\bin\Debug\DataBase.dll
+C:\Users\hp\Desktop\公司网站\CompanyWeb\DataBase\bin\Debug\DataBase.pdb
+C:\Users\hp\Desktop\公司网站\CompanyWeb\DataBase\obj\Debug\DataBase.dll
+C:\Users\hp\Desktop\公司网站\CompanyWeb\DataBase\obj\Debug\DataBase.pdb
+C:\Users\hp\Desktop\公司网站\CompanyWeb\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\CompanyWeb\DataBase\bin\Debug\DataBase.dll
+C:\Users\hp\Desktop\CompanyWeb\DataBase\bin\Debug\DataBase.pdb
+C:\Users\hp\Desktop\CompanyWeb\DataBase\obj\Debug\DataBase.dll
+C:\Users\hp\Desktop\CompanyWeb\DataBase\obj\Debug\DataBase.pdb
+C:\Users\hp\Desktop\公司网站\旧版\CompanyWeb\DataBase\bin\Debug\DataBase.dll
+C:\Users\hp\Desktop\公司网站\旧版\CompanyWeb\DataBase\bin\Debug\DataBase.pdb
+C:\Users\hp\Desktop\公司网站\旧版\CompanyWeb\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\公司网站\旧版\CompanyWeb\DataBase\obj\Debug\DataBase.dll
+C:\Users\hp\Desktop\公司网站\旧版\CompanyWeb\DataBase\obj\Debug\DataBase.pdb
